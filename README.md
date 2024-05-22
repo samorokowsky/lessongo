@@ -1,1 +1,2 @@
-# lessongo
+# lessons-go
+Go lessons
